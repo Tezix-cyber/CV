@@ -3,8 +3,9 @@
     src: url("../fonts/Audiowide/Audiowide-Regular.ttf");
 }
 
-h1 {
-    
+h1 { 
+    font-style: italic;
+    text-decoration: underline;
 }
 
 #p1 {
