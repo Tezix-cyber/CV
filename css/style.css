@@ -1,0 +1,55 @@
+@font-face {
+    font-family: police1;
+    src: url("../fonts/Audiowide/Audiowide-Regular.ttf");
+}
+
+h1 {
+    
+}
+
+#p1 {
+    background-color: rgb(175, 255, 228);
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 2px solid #2f4f4f;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 15px 15px 10px black;
+}
+
+#p2 {
+    background-color: rgb(179, 165, 255);
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 2px solid #2f4f4f;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 15px 15px 10px black;
+}
+
+#p3 {
+    background-color: rgb(175, 255, 228);
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 2px solid #2f4f4f;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 15px 15px 10px black;
+}
+
+#p4 {
+    background-color: rgb(179, 165, 255);
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 2px solid #2f4f4f;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 15px 15px 10px black;
+}
+
+body {
+    background-image: url("../images/image_fond.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'police1';
+}
